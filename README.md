@@ -26,7 +26,10 @@ A simple web-based Student Registration Form built using PHP and MySQL. This min
 
 ## 📷 Screenshot
 
-![Screenshot](screenshots/form-preview.png)
+![Scre<img width="1365" height="620" alt="form-preview" src="https://github.com/user-attachments/assets/5bbefd6b-00d5-431f-a7c9-39906ca46d95" />
+<img width="1365" height="630" alt="form-submitted" src="https://github.com/user-attachments/assets/cae4edb2-2fcf-446c-8442-b9129ae3940e" />
+
+enshot](screenshots/form-preview.png)
 
 ---
 
