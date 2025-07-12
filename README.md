@@ -33,15 +33,48 @@ A simple web-based Student Registration Form built using PHP and MySQL. This min
 
 ## ⚙️ How to Run Locally
 
-1. Install [XAMPP](https://www.apachefriends.org/index.html)
-2. Start Apache and MySQL from XAMPP Control Panel
-3. Import `students.sql` into phpMyAdmin:
-   - Open `http://localhost/phpmyadmin`
-   - Create a DB `student_db`
-   - Import `students.sql` file
-4. Copy this folder to `C:/xampp/htdocs/student-registration`
-5. Visit in browser: `http://localhost/student-registration/index.html`
-6. Done ✅
+## ⚙️ How to Run Locally
+
+1. **Install XAMPP**  
+   - Download from: [https://www.apachefriends.org](https://www.apachefriends.org)
+   - Install it on your system
+
+2. **Start XAMPP**  
+   - Open the XAMPP Control Panel
+   - Click **Start** next to **Apache** and **MySQL**
+
+3. **Create Database in phpMyAdmin**
+   - Open browser and go to: `http://localhost/phpmyadmin`
+   - Click on **New**, and create a database named:
+     ```
+     student_register
+     ```
+   - Click on the database name → **Import**
+   - Select and upload the `student_register.sql` file (if applicable)
+
+4. **Place Project Files in htdocs**
+   - Copy the entire project folder (your code files) into:
+     ```
+     C:\xampp\htdocs\
+     ```
+   - Example:
+     ```
+     C:\xampp\htdocs\student-registration\
+     ```
+
+5. **Access Your Project**
+   - Open browser and visit:
+     ```
+     http://localhost/student-registration/
+     ```
+   - You’ll see your registration/login form
+
+6. **Test the App**
+   - Register a user
+   - Login with the same credentials
+   - Logout to test session functionality
+
+✅ You're done! Your PHP-MySQL login/register project is now running locally.
 
 ---
 
