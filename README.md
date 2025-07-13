@@ -33,8 +33,6 @@ A simple web-based Student Registration Form built using PHP and MySQL. This min
 
 ## ⚙️ How to Run Locally
 
-## ⚙️ How to Run Locally
-
 1. **Install XAMPP**  
    - Download from: [https://www.apachefriends.org](https://www.apachefriends.org)
    - Install it on your system
